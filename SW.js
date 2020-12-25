@@ -1,10 +1,10 @@
 const staticCacheName = 'site-static-v1';
 const assets = [
-    '/',
-    '/index.html',
-    '/assets/js/script.js',
-    '/assets/css/style.css',
-    '/assets/images/favicon.png'
+    '',
+    'index.html',
+    'assets/js/script.js',
+    'assets/css/style.css',
+    'assets/images/favicon.png'
 ];
 
 // install event
